@@ -1,7 +1,5 @@
 package org.o7planning.sbsocial.entity;
 
-import java.sql.Timestamp;
-import java.util.Set;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
